@@ -1,0 +1,18 @@
+h1{
+    color: cadetblue;
+    text-align: center;
+}
+#imgPicture{
+    width: 350px;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: yellowgreen;
+}
+a:hover{
+    text-decoration: underline;
+}
+.centered{
+    text-align: center;
+}
